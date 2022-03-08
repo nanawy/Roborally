@@ -5,11 +5,11 @@ Tout le monde est là du coup..
 
 A : plateau = Responsable : Thomas
 
-B : le Circuit / Joueur / carte = Responsable : .....
+B : le Circuit / Joueur / carte = Responsable : .....Nawel
 
-C : Déroulement de la partie / Test / Tour / Programmation des mouvements = Responsable : .....
+C : Déroulement de la partie / Test / Tour / Programmation des mouvements = Responsable : .....Anas
 
-D : les Clients qui entrent dans le jeu / c'est à dire les Joueurs = Responsable : ......
+D : les Clients qui entrent dans le jeu / c'est à dire les Joueurs = Responsable : ......Hamza
 
 Si vous avez d'autres idées ... 
 Je vous envoie la photo sur Discord de ce que j'ai écris 
