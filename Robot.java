@@ -1,6 +1,10 @@
 package init;
 
 //create a robot 
+//on a pas besoin de couleur lol, c'est un plus
+//on doit faire comment trouver la position du robot
+//on a besoin du board 
+
 
 public class Robot {
 	
